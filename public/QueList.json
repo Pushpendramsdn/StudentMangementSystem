@@ -1,0 +1,31 @@
+[{
+    "id": 28,
+    "queTitle": "Creating External Table with partition and adding data in it.",
+    "queType": "Submission",
+    "queDescription": "Why there are no airplanes visible in the google maps satellite view?"
+},
+{
+    "id": 258,
+    "queTitle": "Buying A House.",
+    "queType": "Passage(text)",
+    "queDescription": "Do you regeret buying property in banglore? if Yes, why? What you are going to do about it?"
+},
+{
+    "id": 288,
+    "queTitle": "Drive responsibly in the road.",
+    "queType": "MCQ(Quiz)",
+    "queDescription": "If I am driving 55 miles per hour and i take the ignition key out while still in drive, what happens ..."
+},
+{
+    "id": 281,
+    "queTitle": "Creating External Table with partition and adding data in it.",
+    "queType": "Passage(text)",
+    "queDescription": "Why there are no airplanes visible in the google maps satellite view?"
+},
+{
+    "id": 218,
+    "queTitle": "Creating External Table with partition and adding data in it.",
+    "queType": "Submission",
+    "queDescription": "Why there are no airplanes visible in the google maps satellite view?"
+}
+]
